@@ -11,4 +11,4 @@ Features :
   - Shows the targets screen (not creepy I swear)
   - Establishes a shell on the target
 
-![image](https://github.com/4lpine/RAT/assets/112321074/c1ef2e42-1115-478e-b4f9-ef44f7848421)
+![image](https://github.com/4lpine/RAT/assets/112321074/45eb5295-16bc-4ea6-a812-f7cc8fb7ab37)
