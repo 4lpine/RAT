@@ -12,3 +12,5 @@ Features :
   - Establishes a shell on the target
 
 ![image](https://github.com/4lpine/RAT/assets/112321074/45eb5295-16bc-4ea6-a812-f7cc8fb7ab37)
+
+Not meant to be used maliciously. Use it with good intentions
